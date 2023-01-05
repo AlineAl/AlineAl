@@ -1,3 +1,1 @@
-### Hi there 👋
-
-In construction...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineAl)](https://github.com/anuraghazra/github-readme-stats)
