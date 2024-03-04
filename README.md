@@ -1,6 +1,9 @@
 # Hi ! I'm Aline
 
 I'm React/React-Native web developer, but my skills don't stop there. I enjoy exploring new stacks, discovering, understanding. Because I remain convinced that opening one's mind, exploring, making mistakes, and then succeeding are all necessary acts to progress!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineAl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+Above are my GitHub stats! Feel free to explore the projects I've been working on and the contributions I've made.
 
 ## Badges
 
@@ -11,12 +14,6 @@ I'm React/React-Native web developer, but my skills don't stop there. I enjoy ex
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-## GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineAl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-Above are my GitHub stats! Feel free to explore the projects I've been working on and the contributions I've made.
 
 ## Get in Touch
 
