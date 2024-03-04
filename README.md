@@ -1,5 +1,3 @@
-# Hello World! 👋
-
 Hi ! I'm Aline, a passionate web developer who loves creating awesome projects and contributing to the tech community.
 
 ## GitHub Stats
