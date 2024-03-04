@@ -1,6 +1,9 @@
 # Hi ! I'm Aline
 
 I'm React/React-Native web developer, but my skills don't stop there. I enjoy exploring new stacks, discovering, understanding. Because I remain convinced that opening one's mind, exploring, making mistakes, and then succeeding are all necessary acts to progress!
+
+# Github Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineAl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Above are my GitHub stats! Feel free to explore the projects I've been working on and the contributions I've made.
