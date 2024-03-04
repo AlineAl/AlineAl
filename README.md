@@ -1,4 +1,6 @@
-Hi ! I'm Aline, a passionate web developer who loves creating awesome projects and contributing to the tech community.
+# Hi ! I'm Aline
+
+I'm React/React-Native web developer, but my skills don't stop there. I enjoy exploring new stacks, discovering, understanding. Because I remain convinced that opening one's mind, exploring, making mistakes, and then succeeding are all necessary acts to progress!
 
 ## Badges
 
