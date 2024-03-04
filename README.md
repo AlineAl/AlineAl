@@ -16,9 +16,10 @@ I'm React/React-Native web developer, but my skills don't stop there. I enjoy ex
 
 Above are my GitHub stats! Feel free to explore the projects I've been working on and the contributions I've made.
 
-## Get in Touch
+## You can join me here
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) and [Twitter](https://twitter.com/your-twitter-handle).
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ladevdelatoile/)
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)(https://twitter.com/AlineLSMN)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
