@@ -1,4 +1,4 @@
-# <center>Hi! 🕷️ I'm Aline</center>
+# Hi! I'm Aline
 
 I'm React/React-Native web developer, but my skills don't stop there. I enjoy exploring new stacks, discovering, understanding. Because I remain convinced that opening one's mind, exploring, making mistakes, and then succeeding are all necessary acts to progress!
 
